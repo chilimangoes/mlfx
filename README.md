@@ -1,4 +1,4 @@
 mlfx
 ====
 
-Project for playing around with implementation of machine learning algorithms in .NET
+Project for playing around with implementation of machine learning algorithms on the .NET platform.
